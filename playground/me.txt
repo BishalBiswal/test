@@ -1,5 +1,0 @@
-{{#user}}
-Name: Bishal Biswal
-Skills: HTML, CSS, JS, ReactJS,BootstrapCSS,JQuery
-Email: bishalbiswalk@gmail.com
-{{/user}}
